@@ -16,7 +16,7 @@ Follow the steps below to create your GitHub account, install Visual Studio Code
 6. You can skip or complete the onboarding survey — it won't affect setup
 7. Send your GitHub username to **Sean Crain** — he'll link your account to the E.W. Scripps enterprise GitHub instance
 
-> **You now have a GitHub account linked to your E.W. Scripps email.**
+> ✅ **You now have a GitHub account linked to your E.W. Scripps email.**
 
 ---
 
@@ -27,7 +27,7 @@ Follow the steps below to create your GitHub account, install Visual Studio Code
 3. Click to install — the portal will handle the installation automatically
 4. Once complete, launch **VS Code**
 
-> **VS Code is installed and ready.**
+> ✅ **VS Code is installed and ready.**
 
 ---
 
@@ -37,7 +37,7 @@ Follow the steps below to create your GitHub account, install Visual Studio Code
 2. Search for **GitHub Copilot Chat**
 3. Click **Install**
 
-> **GitHub Copilot is installed and active** — Copilot Chat now includes all Copilot functionality including inline code suggestions.
+> ✅ **GitHub Copilot is installed and active** — Copilot Chat now includes all Copilot functionality including inline code suggestions.
 
 ---
 
@@ -48,19 +48,19 @@ Follow the steps below to create your GitHub account, install Visual Studio Code
 3. When prompted, click **Open Visual Studio Code** to return to the editor
 4. Confirm the **Copilot icon** is visible in the bottom status bar of VS Code
 
-> **GitHub Copilot is active and ready to use.**
+> ✅ **GitHub Copilot is active and ready to use.**
 
 ---
 
 ## Quick Reference Checklist
 
-- [ ] GitHub account created with E.W. Scripps email
-- [ ] Email verified on GitHub
-- [ ] VS Code installed via company portal
-- [ ] GitHub Copilot Chat extension installed
-- [ ] Signed in to GitHub from VS Code
-- [ ] Copilot icon visible in VS Code status bar
-- [ ] GitHub username sent to Sean Crain for enterprise access
+- [ ] 👤 GitHub account created with E.W. Scripps email
+- [ ] 📧 Email verified on GitHub
+- [ ] 💻 VS Code installed via company portal
+- [ ] 🤖 GitHub Copilot Chat extension installed
+- [ ] 🔑 Signed in to GitHub from VS Code
+- [ ] ✅ Copilot icon visible in VS Code status bar
+- [ ] 📨 GitHub username sent to Sean Crain for enterprise access
 
 ---
 
